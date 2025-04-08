@@ -3,8 +3,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Software Engineering Microservice Project</b>
+- <b>Microservice Project</b>
   - [Email Microservice](https://github.com/camacluc/CS361-Project)
+- <b>Capstone Project</b>
+  - [Latitude and Longitude Data Conversion and Calculation](https://github.com/camacluc/capstone)
   
 <h2> 🤳 Connect with me:</h2>
 
