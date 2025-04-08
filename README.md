@@ -1,4 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Lucinda! <br/><a href="https://github.com/camacluc">Programmer</a>, 
+  <a href="https://www.linkedin.com/in/lucinda-walker-5277361b1/">Computer Science Student</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Software Engineering Microservice Project</b>
+  - [Email Microservice](https://github.com/camacluc/CS361-Project)
+  
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="LucindaWalker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/lucinda-walker-5277361b1/
 
 <!--
 **camacluc/camacluc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
