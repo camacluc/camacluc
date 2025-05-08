@@ -7,6 +7,8 @@
   - [Email Microservice](https://github.com/camacluc/CS361-Project)
 - <b>Capstone Project</b>
   - [Latitude and Longitude Data Conversion and Calculation](https://github.com/camacluc/capstone)
+- <b>BigShell</b>
+  - [Latitude and Longitude Data Conversion and Calculation](https://github.com/osu-374/bigshell-camacluc)
   
 <h2> 🤳 Connect with me:</h2>
 
